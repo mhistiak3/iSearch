@@ -1,6 +1,6 @@
 # React and Tailwind Css Search engine App
 
-Project live demo [iSearch](https://github.com/facebook/create-react-app).
+Project live demo [iSearch](https://i-search.netlify.app/).
 
 ## Project Description
 
