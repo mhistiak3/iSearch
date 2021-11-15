@@ -1,10 +1,12 @@
-# Getting Started with Create React App
+# React Tailwind Css Search engine App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project live demo [iSearch](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Project Description
 
-In the project directory, you can run:
+This is a search engine app like google. I have used google API for search functionality and used React for frontend and used tailwind CSS for a good look.
+
+API Link [rapidapi](https://rapidapi.com/apigeek/api/google-search3/)
 
 ### `yarn start`
 
